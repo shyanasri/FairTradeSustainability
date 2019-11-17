@@ -6,5 +6,5 @@ setup(name='Barcode Sustainability Scanner',
       author='Runtime Terror',
       license='MIT',
       packages=[],
-      install_requires=['numpy','imutils','opencv-python','pyzbar','requests'],
+      install_requires=['imutils','opencv-python','pyzbar','requests'],
       zip_safe=False)
