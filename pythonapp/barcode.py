@@ -20,8 +20,8 @@ response = {
 			"Alternatives":""
 			}
 
-#For demo purposes, the picture is included in /images folder
-image = cv2.imread('images/barcodeunsustainable_08.jpg') #this image can be changed to others in the folder
+#For demo purposes, the picture is included in folder
+image = cv2.imread('barcodeunsustainable_08.jpg') #this image can be changed to others in the folder
 gray_img = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 barcodes = pyzbar.decode(gray_img)
 
