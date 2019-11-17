@@ -1,0 +1,514 @@
+        Brand        Company Name         Category               Status   City         ProvinceMVP
+        President's
+        Choice                                                   Licensed
+        Organic                           Cocoa,Coffee           brand                        No
+        Earth's                                                  Licensed
+        Choice                            Chocolate,Coffee       brand    Vancouver    BC     No
+        Good Earth                                               Licensed
+        Coffee House                      Coffee                 brand                        No
+        Gourmet
+        Coffee -
+        Winnipeg's                                               Licensed
+        Finest                            Coffee                 brand    Winnipeg      MB    No
+                                                                 Licensed
+        One Coffee                        Coffee                 brand                        No
+        Spirit Bear                                              Licensed
+        Coffee                            Coffee                 brand    Port CoquitlamBC    No
+        Whistler                                                 Licensed
+        Chocolate                         Chocolate              brand    Whistler      BC    No
+                                                                 Licensed
+        Ara Azzurro                       Coffee                 brand    Woodbridge ON       No
+                                                                                              No
+       Beachcomber                                               Licensed
+       Coffee                        Coffee                      brand    Gibsons      BC     No
+       23 Degrees 23 Degrees                                     Licensee
+  26122Roastery   Roastery           Coffee                      companyToronto        ON     No
+                   A. Holliday &amp;
+05384              Company Inc.      Tea                         Trader Toronto        ON     No
+                                                                 Licensee
+ 21032Bercy Foods Aliments Bercy          Bananas,Produce        companyMontreal       QC     No
+      Aliments                                                   Licensee
+ 41722Tristan     Aliments Tristan        Coffee                 companySt-Majorique   QC     No
+                                                                 Licensee
+ 35414Alpha Wolf      Alpha Wolf Coffee Coffee                   companyBrampton       ON     No
+                      Alter Eco
+                      America&#8217;s                            Licensee
+03771 Alter Eco       (Canada)          Chocolate,Other          companySan Francisco         No
+      Alternative                                                Licensee
+01212 Grounds         Alternative GroundsCoffee                  companyToronto       ON      Yes
+      Aroma
+      Specialty      Aroma Specialty                             Licensee Quathiaski
+02807 Coffee         Coffee Roasters      Coffee                 companyCove           BC     No
+                     Associated Brands                           Licensee
+06450                LP                   Tea                    companyWinona         ON     No
+        Baden Coffee Baden Coffee                                Licensee
+01392   Company      Company Inc.         Coffee,Tea             companyBaden          ON     No
+        Balzac's     Balzac&#8217;s                              Licensee
+01393   Coffee       Coffee Ltd.          Coffee                 companyAncaster       ON     No
+        Barry        Barry Callebaut
+02605   Callebaut    Canada               Chocolate              Trader St-Hyacinthe QC       No
+                                                                 Licensee
+01214 Bean Fair       Bean Fair           Coffee                 companyWakefield    QC       Yes
+                      Belvas Belgian                             Licensee
+   5466Belvas         Chocolate           Chocolate              company                      No
+                      Ben &amp;                                  Licensee
+  22337Ben & Jerry's Jerry&#8217;s        Frozen treats          companyBurlington   ON       Yes
+        Brûlerie Café Br&ucirc;lerie
+        Aladdin       Caf&eacute;
+        Coffee        Aladdin Coffee                             Licensee
+  23536Roastery       Roastery            Coffee                 companyGatineau       QC     No
+        Brûlerie Des Br&ucirc;lerie Des                          Licensee
+01297 Cantons         Cantons             Coffee                 companyWarwick        QC     No
+        Brûlerie      Br&ucirc;lerie                             Licensee
+02811 Rousseau        Rousseau            Coffee                 companyQuébec         QC     No
+        Brazcanco                                                Licensee
+04183 Inc.            Brazcanco Inc.      Coffee                 companyToronto        ON     No
+                      Bridgehead (2000)   Cocoa / Hot            Licensee
+00405 Bridgehead Inc.                     Chocolate,Coffee,Tea   companyOttawa         ON     No
+        Café          Brossard                                   Licensee
+01313 Brossard        Fr&egrave;res Inc   Coffee,Tea             companyMontreal       QC     No
+        Brulerie St-                                             Licensee
+01399 Denis           Brulerie St-Denis   Coffee                 companyMontreal       QC     No
+        Totem         Brûlerie Totem                             Licensee Vaudreuil-
+  36509Roasters       Roasters Inc.       Coffee                 companyDorion         QC     No
+  30695               Burnbrae Farms                             Trader Lyn            ON     No
+                      Caf&eacute; Agga                           Licensee
+01293 Café Agga V.I.P. Inc.               Coffee                 companyLaval          QC     No
+      Café Bar        Caf&eacute; Bar                 Licensee Rouyn-
+03246 L'Abstracto     L&#8217;Abstracto Coffee        companyNoranda        QC   No
+      Café Barista Caf&eacute; Barista                Licensee
+05047 Inc           Inc                Coffee         companyMontreal       QC   No
+                    Caf&eacute;
+                    Cambio
+                    Coop&eacute;rative                Licensee
+03814 Café Cambio de travail           Coffee         companyChicoutimi     QC   No
+      Café La       Caf&eacute; La                    Licensee
+01403 Brûlerie      Br&ucirc;lerie     Coffee         companyGatineau(Hull) QC   No
+      Café          Caf&eacute;                       Licensee Ville St-
+01229 Mystique      Mystique Coffee IncCoffee         companyLaurent        QC   No
+                    Caf&eacute;
+      Café          Napol&eacute;on                   Licensee
+01303 Napoléon Inc. Inc.               Coffee         companyLasalle        QC   No
+      Café          Caf&eacute;                       Licensee
+02814 Plantation    Plantation         Coffee         companyAnjou          QC   No
+                                                      Licensee
+01343 Café Rico       Caf&eacute; Rico Coffee         companyMontreal       QC   No
+      Café Union      Caf&eacute; Union               Licensee
+02815 Coffee          Coffee              Coffee      companyMontreal       QC   No
+      Café Vittoria   Caf&eacute; Vittoria            Licensee
+01329 Inc.            Inc.                Coffee      companySherbrooke     QC   No
+                      Caf&eacute;s RGC
+01265                 Coffee Inc.         Coffee      Trader   Westmount    QC   No
+       Brûleries
+       FARO
+       Roasting                                       Licensee
+01301 Houses          Café Faro Inc.     Coffee       companySherbrooke     QC   No
+       Café Hubert    Café Hubert Saint-              Licensee
+  25651Saint-Jean     Jean               Coffee       companySherbrooke     QC   No
+       Cafe-                                          Licensee
+06504 Vrac.com        Cafe-Vrac.com       Coffee      companySherbrooke     QC   No
+                                                      Licensee
+  22236               Caffe Umbria      Coffee        company                    No
+05801                 Cambrian SolutionsCocoa,Sugar   Trader Oakville       ON   No
+      Camellia                                        Licensee
+00402 Sinensis    Camellia Sinensis Tea               companyMontreal       QC   No
+                  Canterbury Coffee                   Licensee
+01405 ReSIProcate Corporation       Coffee            companyRichmond       BC   No
+                                                      Licensee
+04450                 Cascade Coffee IncCoffee        company                    No
+                      Cavalier Belgian                Licensee
+ 27319Cavalier        Chocolatier       Chocolate     company                    No
+      Chicken
+      Creek Coffee Chicken Creek                      Licensee
+ 19263Company      Coffee Company         Coffee      companySmithers       BC   No
+                                                      Licensee
+  22027Chocomotive    Chocomotive         Chocolate   companyMontebello     QC   No
+       Clementine     Clementine                      Licensee
+  33595Café-Deli      Caf&eacute;-Deli    Coffee      companyMoncton        NB   No
+       Club Coffee                                    Licensee
+  18463LP             Club Coffee LP      Coffee      companyRexdale        ON   No
+       Coffee Tree    Coffee Tree                     Licensee
+02820 Roastery        Roastery            Coffee      companyToronto        ON   No
+       Coffeecology                                   Licensee
+  28054Inc.           Coffeecology Inc.   Coffee      companyDundas         ON   No
+       Coffeemark
+       Coffee & Tea   Coffeemark Coffee
+       Services       &amp; Tea                       Licensee
+01230 Limited         Services Limited  Coffee        companyOttawa         ON   No
+       Colonial                                       Licensee
+05219 Coffee         Colonial Coffee    Coffee        companyWindsor        ON   No
+                     Columbia Coffee
+       Mountain      &#038; Tea \
+       View Estates Mountain View                     Licensee
+01426 Coffee         Estates Coffee Co Coffee         companyToronto        ON   No
+       Concept                                        Licensee
+  28664chocolat      Concept Chocolat Chocolate       companyLasalle        QC   No
+       Concept Eco Concept Eco Plein
+       Plein Air Le Air Le Baluchon                   Licensee
+  22003Baluchon Inc. Inc.               Coffee        companySaint-Paulin   QC   No
+       Cordoba                                        Licensee
+03018 Coffee         Cordoba Coffee Ltd Coffee        companyRexdale        ON   No
+       County        County Roasters                  Licensee
+  26711Roasters Inc Inc                 Coffee        companyPicton         ON   No
+                     Coutts &amp;
+      Coutts &       Company
+      Company        Coffeehouse                                 Licensee
+05935 Coffeehouse    Emporium           Coffee                   companyPerth            ON   No
+      Creemore
+      Coffee         Creemore Coffee                             Licensee
+02840 Company        Company            Coffee                   companyCreemore         ON   No
+      Handmade
+      Organic                                                    Licensee
+05970 Delight        Delight            Chocolate                companyToronto          ON   No
+                     DeLuca Specialty
+       DeLuca        Foods Cooking
+       Specialty     School and                                  Licensee
+  33163Foods         Restaurant Ltd.    Coffee                   companyWinnipeg         MB   No
+                     Detour Coffee
+  32697              Roasters           Coffee                   Trader     Burlington   ON   No
+        Diesel House
+        Coffee       Diesel House                                Licensee
+  25409Roasters      Coffee Roasters    Coffee                   companyBracebridge      ON   No
+        Discovery    Discovery Organics                          Licensee
+  19721Organics      Ltd                Bananas,Produce          companyVancouver        BC   Yes
+                     Divine Chocolate                            Licensee
+  20682Divine        Limited            Chocolate                company                      No
+                     Divine Specialty                            Licensee
+  29878              Teas Company Ltd Tea                        companySurrey           BC   No
+                     Doi Chaang Coffee
+  20550Doi Chaang Company Inc.          Coffee                   Trader Vancouver        BC   No
+        Douceur de Douceur de                                    Licensee
+  19749Géraldine     G&eacute;raldine Cosmetics                  companySt-Hubert        QC   No
+        Earth's      Earth&#8217;s                               Licensee
+04804 General StoreGeneral Store        Coffee                   companyEdmonton         AB   Yes
+                                                                 Licensee
+  32856En'tyce      En&#8217;tyce    Cosmetics                   companyToronto          ON   No
+                    Endangered
+       Endangered Species Chocolate,                             Licensee
+  30941Species      LLC.             Chocolate                   company                      No
+       Equator
+       Coffee       Equator Coffee                               Licensee
+01219 Roasters Inc. Roasters Inc.    Coffee                      companyAlmonte      ON       No
+                                                                 Licensee
+05157 Équifruit      Equifruit          Bananas,Produce          companyDrummondvilleQC       Yes
+       Espanola
+       Coffee        Espanola Coffee                             Licensee
+  37248Roasters      Roasters           Coffee                   companyEspanola         ON   No
+       New World,    Everland Natural                            Licensee
+  29255Everland      Foods Inc.         Cocoa / Hot Chocolate    companyBurnaby          BC   No
+       Everyday
+       Gourmet
+       Coffee        Everyday Gourmet                            Licensee
+01413 Roasters       Coffee Roasters     Coffee                  companyToronto          ON   No
+                     Factors Group of
+                     Nutritional                                 Licensee
+  33001Ziggy's       Companies Inc       Cocoa / Hot Chocolate   companyCoquitlam        BC   No
+                     Fair Trade
+       Fair Trade    Jewellery Company                           Licensee
+  26322Jewellery Co. Ltd.                Gold                    companyToronto          ON   No
+       Fernwood      Fernwood Coffee                             Licensee
+  18958Coffee Co. Co.                    Coffee                  companyVictoria         BC   No
+       Florists                                                  Licensee
+  20188Supply        Florists Supply Ltd Flowers                 companyWinnipeg         MB   Yes
+       Forbidden
+       Flavours      Forbidden Flavours                          Licensee
+  26840Roastery      Roastery            Coffee                  companyBrandon          MB   No
+       Full Steam
+       Coffee        Full Steam Coffee                           Licensee
+  28327Company       Company             Coffee                  companyGuysborough NS        No
+                     Fyffes North
+                     America Inc.                                Licensee
+03253 Fyffes         (Canada)            Bananas,Produce         companyCoral Gables          No
+       Galerie au
+       Chocolat,
+       Jelina        Galerie Au Chocolat                         Licensee
+05434 Chocolatier / Jelina Chocolatier Chocolate                 companyMontreal         QC   No
+       Garden To Garden To Cup                                   Licensee
+  37361Cup Organics Organics             Tea                     companyRichmond         BC   No
+       Grauman       Grauman                                     Licensee
+  40633Packaging     Packaging           Cotton                  companyToronto          ON   No
+                   Green Chocolate                                   Licensee
+ 37007Barkleys     Works Ltd          Chocolate                      companyCoquitlam       BC   No
+      Nuterra      H. &#038; J.                                      Licensee
+ 24117Granola      BRÜGGEN KG         Cereals                        company                     No
+                   Hatch Beverage                                    Licensee
+  35944hatch       Company            Coffee                         companyMarkham         ON   No
+       Hell's Half Hell&#8217;s Half                                 Licensee
+  40090Acre Coffee Acre Coffee        Coffee                         companyFort St. John   BC   No
+       Heritage                                                      Licensee
+02232 Coffee       Heritage Coffee    Coffee                         companyLondon          ON   No
+       Highland                                                      Licensed
+  22025Farms Inc   Highland Farms Inc Coffee                         brand    Mississauga   ON   No
+       House of                                                      Licensee
+  31918Mandela     House of Mandela Wine                             company                     No
+                   International
+02906              Sugars Inc.        Sugar                          Trader Woodbridge      ON   No
+       Ironwood    Ironwood Coffee                                   Licensee Georgian
+       Coffee      Company            Coffee                         companyBluffs          ON   No
+       Mountain    Java Works Coffee                                 Licensee
+  19187Gems        Inc                Coffee                         companyMississauga     ON   No
+       JJ Bean
+       Coffee                                                        Licensee
+01417 Roasters     JJ Bean Inc        Coffee                         companyVancouver       BC   No
+       Jumping     Jumping Bean                                      Licensee
+04805 Bean Coffee Coffee              Coffee                         companySt John         NL   No
+                   Just Us! Coffee    Cocoa / Hot                    Licensee
+01103 Just Us!     Roasters Co-op     Chocolate,Coffee,Tea           companyWolfville       NS   No
+                                                                     Licensee
+   387Clipper          Kallo Foods Ltd    Tea                        company                     No
+      Karité           Karit&eacute;                                 Licensee
+ 18879Delapointe       Delapointe         Cosmetics                  companyBury            QC   Yes
+                       Ken Gabbay Coffee
+01264                  LTD.               Coffee                     Trader   Montreal      QC   No
+                       Kencaf Importing
+                       &amp; Distributing
+01418                  Inc.               Coffee                     Trader   Markham       ON   No
+                       Keurig Canada
+                       (formerly GMCR
+         Keurig        Canada Holdings                               Licensee
+01331    Canada        Inc)               Coffee                     companyMontreal        QC   No
+         Kicking Horse Kicking Horse                                 Licensee
+01215    Coffee        Coffee             Coffee                     companyInvermere       BC   Yes
+                                                                     Licensee
+ 20026              Kingsmill Foods    Cocoa / Hot Chocolate,Sugar   companyToronto         ON   No
+                    Kitimai Tea &amp;                                Licensee
+03577 Kitimai       Coffee             Tea                           companyDownsview       ON   No
+                    Kooshoo Lifestyle                                Licensee
+  41807Kooshoo      Inc.               Cotton                        companyVictoria        BC   No
+                    Kraft Heinz                                      Licensee
+  39294Ethical Bean (Canada)           Coffee                        companyToronto         ON   No
+       L'Armorique L&#8217;Armorique                                 Licensee
+05044 Inc           Inc                Coffee                        companyVal d'Or        QC   No
+       La Brulerie
+       de           La Brulerie de                                   Licensee
+  26606l'Atlantique l&#8217;Atlantique Coffee                        companyMatane          QC   No
+                    La Choppe
+       La Choppe à &agrave;                                          Licensee
+  26559Café         Caf&eacute;        Coffee                        companySt-Jérome       QC   No
+       La
+       Compagnie
+       des Mers du La Compagnie des                                  Licensee
+01420 Sud Inc.      Mers du Sud Inc. Coffee                          companyMontreal        QC   No
+                                                                     Licensee
+   3657La Riojana    La Riojana Coop Wine                            company                     No
+                     La Siembra Co-     Chocolate,Cocoa / Hot        Licensee
+01421 Camino         operative          Chocolate,Coconut,Sugar      companyOttawa          ON   No
+       La Societe de La Societe de
+       Torréfaction Torr&eacute;faction                              Licensee
+04103 de Café        de Caf&eacute;     Coffee                       companyBlainville      QC   No
+       Laughing
+       Whale Coffee Laughing Whale                                   Licensee
+06411 Roasters       Coffee Roasters    Coffee                       companyLunenburg       NS   No
+       Le Caféier - Le Caf&eacute;ier                                Licensee
+  26561Boustifo      &#8211; Boustifo Coffee                         companyVille-Marie     QC   No
+       Le Cafétier Le Caf&eacute;tier                                Licensee Mont
+  26346Plus Inc.     Plus Inc.          Coffee                       companyTremblant       QC   No
+        Les Aliments                                      Licensee
+  34156Merci          Les Aliments Merci Sugar            companyMontreal-Nord QC       No
+                      Les Services                        Licensee
+04519                 Adaptes Transit     Coffee          companyMontreal      QC       No
+        Longo
+        Brother Fruit Longo Brother Fruit                 Licensee
+        Market Inc. Market Inc.                           company
+  22030                                   Coffee                   Vaughan        ON    No
+                                                          Licensee
+       Luisella        Luisella Foods Inc Chocolate       companyBarrie           ON    No
+       M68
+       Mercantile
+       Inc. DBA    M68 Mercantile Inc.
+       Caffe UmbriaDBA Caffe Umbria                       Licensee
+  34502Canada      Canada              Coffee             companyVancouver        BC    No
+       Malleable   Malleable Jewellers                    Licensee
+  39823Jewellers   Corporation         Gold               companyToronto          ON    No
+                   Max Voets Coffee                       Licensee
+  18178Tribal Java Roasting Ltd        Coffee             companyVernon           BC    No
+                   Mayan Green                            Licensee Shawnigan
+  38086Mayan CoffeeCoffee Imports      Coffee             companyLake             BC    No
+                                                          Licensee
+  38075ME to WE        ME to WE Shop Inc Chocolate        companyToronto          ON    No
+       Melitta World                                      Licensee
+  21365Harvest         Melitta Canada Inc. Coffee         companyToronto          ON    No
+       Mercedes
+       Beans &         Mercedes Beans                     Licensee
+04104 Model Teas       &amp; Model Teas Coffee            companyHazelton         BC    No
+                       Mexican Arabica
+  38541                Bean Company     Coffee            Trader     Richmond Hill ON   No
+       Midnight Sun
+       Coffee        Midnight Sun                         Licensee
+01425 Roasters       Coffee Roasters   Coffee             companyWhitehorse       YT    No
+       Milano Coffee                                      Licensee
+  27149Ltd           Milano Coffee Ltd Coffee             companyVancouver        BC    No
+       Mochaberry Mochaberry Coffee
+       Coffee &      &amp; Company                        Licensee
+  28611Company Ltd Ltd                 Coffee             companyOrangeville      ON    No
+                                                          Licensee North
+03815 Moja Coffee Moja Coffee     Coffee                  companyVancouver        BC    No
+       Green &    Mondelez Canada Chocolate,Cocoa / Hot   Licensee
+  22159Black's    Inc.            Chocolate               companyMississauga      ON    No
+                                                          Licensee
+   1291Mongozo         Mongozo            Other           company                       No
+       Montana         Montana Coffee
+       Coffee & Tea    &amp; Tea                          Licensee
+01312 Services         Services           Coffee          companyOttawa           ON    No
+       Moonbean
+       Coffee     Moonbean Coffee                         Licensee
+01306 Company     Company          Coffee                 companyToronto          ON    No
+                  Mother
+                  Parker&#8217;s
+                  Tea &amp; Coffee                        Licensee
+03191 Brown Gold Inc.              Coffee,Tea             companyMississauga      ON    No
+                  Mountain Coffee
+  28767           Ltd              Coffee                 Trader     Delta        BC    No
+        Muldoons'
+        Own       Muldoons&#8217;
+        Authentic Own Authentic                           Licensee
+04203 Coffee      Coffee           Coffee                 companyMississauga      ON    No
+                  N.J. DOUEK /
+                  UNIGLOBE
+01292             COFFEE           Coffee                 Trader Montreal         QC    No
+                                                          Licensee
+01309 Nador Inc.       Nador Inc.       Coffee            companyVanier           QC    No
+                       NATRA Chocolate
+  35114                America          Cocoa             Trader London           ON    No
+  33987                Nature Bio Foods Cereals           Trader                        No
+                                                          Licensee Ste-Agathe-
+  41512Nature Zen    Nature Zen           Other           companydes-Monts        QC    No
+                     Nature&#8217;s                       Licensee
+  28941Nature's Path Path Foods Inc.      Cereals         companyRichmond         BC    No
+       Northland                                          Licensee
+  19594Floral        Northland Floral     Flowers         companySt. Catherines   ON    No
+                     Nu-Tea Company                       Licensee
+  26378Tega          Ltd.                 Tea             companyAbbotsford       BC    No
+                                                              Licensee
+04415 Numi           Numi Inc. (Canada) Tea                   companyOakland               No
+       Pizzelle      NuStef Baking                            Licensee
+  38538Cookies       Limited            Cocoa                 companyMississauga      ON   No
+                                                              Licensee Vaudreuil,
+  26899Oasis Bags    Oasis Bags         Cotton                companyDorion           QC   No
+       Old Rock
+       Roasting      Old Rock Roasting                        Licensee
+05048 Company        Company           Coffee                 companySudbury          ON   No
+                                                              Licensee
+ 27480Olivia      Olivia Chocolatiers   Chocolate             companyGatineau         QC   No
+                  OMG&#8217;s                                 Licensee
+  34457OMG's CandyCandy                 Chocolate             companyWinnipeg         MB   No
+       One Tree                                               Licensed
+       Coffee     One Tree Coffee       Coffee                brand                        No
+       Organic    Organic Meadow                              Licensee
+02941 Meadow      Inc.                  Chocolate Milk        companyGuelph           ON   No
+                  Organic Products
+                  Trading Company
+01194             (Canada)              Coffee                Trader Vancover         BC   No
+                                                              Licensee
+ 38828Origin 1668 Origin 1668 Coffee Coffee                   companyRichmond Hill    ON   No
+      Oughtred     Oughtred Coffee                            Licensee
+ 23670Coffee & Tea &amp; Tea         Coffee                   companyVictoria         BC   No
+                                                              Licensee
+ 35578Patera         Patera Group Inc   Coffee                companyToronto          ON   No
+      Petite
+      Brulerie de Petite Brulerie de                          Licensee
+ 27233Trois-Rivieres Trois-Rivieres     Coffee                companyTrois-Rivieres   QC   No
+                                                              Licensee
+01218 Planet Bean Planet Bean           Coffee                companyGuelph           ON   No
+                                                              Licensee
+ 35656Pluck          Pluck Tea Inc.     Tea                   companyToronto          ON   No
+                     Prana Biovegan                           Licensee
+ 19195Prana          Inc.               Chocolate             companyMontreal         QC   No
+                     Redpath Sugars
+  28421Tate & Lyle   Ltd.               Sugar                 Trader Toronto          ON   No
+       Remarkable                                             Licensee
+  22006Bean          Remarkable Bean Coffee                   companyToronto          ON   No
+       Reunion
+       Coffee        Reunion Coffee                           Licensee
+01317 Roasters       Roasters           Coffee                companyOakville      ON      No
+       Ross                                                   Licensee
+  36796Chocolates     Ross Chocolates Chocolate               companyPort CoquitlamBC      No
+                      Rumble Nutrition                        Licensee
+  38539Rumble         Ltd                Chocolate Milk       companyVictoria      BC      No
+        Salt Spring Salt Spring Coffee                        Licensee
+01217 Coffee Co. Co.                     Coffee               companyRichmond      BC      No
+                      School House
+        School HouseRoasting                                  Licensee
+  37596Roasting       Collaborative Inc Coffee                companyCalgary          AB   No
+        Settlement                                            Licensee
+  37133Co.            Settlement Co.     Coffee               companyWaterloo         ON   No
+        Shuswap
+        Coffee        Shuswap Coffee                          Licensee
+  18131Company ltd Company ltd           Coffee               companySalmon Arm       BC   No
+        Sissiboo
+        Coffee        Sissiboo Coffee                         Licensee
+  25115Roaster        Roaster            Coffee               companyBear River       NS   No
+        VOLO          Social Conscience                       Licensee
+  25557Athletics      Company            Sports Balls         companyVancouver        BC   No
+        Sodexo        Sodexo Canada                           Licensee
+  27462Canada         (Brock University) Coffee               companySt. Catharines   ON   No
+        Source My                                             Licensee
+  40867Garment        Source My GarmentCotton                 companyToronto          ON   No
+  30530               Spire Tea Inc.     Herbs & Spices,Tea   Trader Toronto          ON   No
+        St. Joseph St. Joseph Island                          Licensee Richards
+  22717Island Coffee Coffee Roasters     Coffee               companyLanding          ON   No
+        Station Cold                                          Licensee
+  40934Brew           Station Cold Brew Coffee                companyEtobicoke        ON   No
+                      Steam
+                      Punk&#8217;d                            Licensee
+  38718Steam Punk'dRoasters Ltd          Coffee               companyMarkham       ON      No
+        Stone TempleStone Temple                              Licensee
+  37784Coffees        Coffees            Coffee               companyCherry Valley ON      No
+        Strait Coffee                                         Licensee
+01227 Ltd.            Strait Coffee Ltd. Coffee               companySechelt       BC      No
+                                                                     Licensee St-Michel-de-
+03931 Sudcafé       Sudcaf&eacute;       Coffee                      companyBellechasse QC       No
+                    Swiss Water
+                    Decaffeinated
+02604               Coffee Co. Inc.      Coffee                      Trader Burnaby         BC   No
+                    Takasa Lifestyle                                 Licensee
+  40793Takasa       Company Inc.         Cotton                      companyVancouver       BC   No
+       Take a Break Take a Break                                     Licensee
+       Coffee       Coffee Services      Coffee                      companyCoquitlam       BC   No
+                                                                     Licensee
+  37279teaBOT       TBOT Inc             Tea                         companyToronto         ON   No
+02285               Tea Affair           Herbs & Spices,Tea          Trader Calgary         AB   No
+                    Ten Tree                                         Licensee
+  40981Ten Tree     International Inc.   Cotton                      companyVancouver       BC   No
+       The Green
+       Campus Co-   The Green Campus                                 Licensee
+  35051op           Co-op             Cotton                         companyToronto         ON   No
+       Time Out     Time Out Products                                Licensee
+05472 Products      Inc               Tea                            companyMontreal        QC   No
+                    Tradin Organics
+03027               USA Inc. (Canada)                                Trader                      No
+                    Traditional
+      Traditional   Medicinals                                       Licensee
+03072 Medicinals    (Canada)          Tea                            companySebastopol           No
+                                                                     Licensee
+02333 Four O'Clock Trans-Herbe Inc       Tea                         companySt. Bruno       QC   No
+                     Trybec Beverages                                Licensee
+  38374Trybec        Inc                 Wine                        companyCowansville     QC   No
+        Twisted Goat
+        Coffee       Twisted Goat                                       Licensee
+  38960Roasters      Coffee Roasters     Coffee                         companyKamloops     BC   No
+                                         Cocoa / Hot
+                                         Chocolate,Coconut,Coffee,Dried
+                                         Fruits,Herbs &                 Licensee
+  31374Umano         Umano               Spices,Sugar,Tea               companySherbrooke   QC   No
+                     United Nations of                                  Licensee
+  28955Frisky Zebras Wine                Wine                           company                  No
+                                                                        Licensee
+   5424Valrhona      Valrhona Inc.       Chocolate                      company                  No
+                     Van Houtte Coffee
+                     Services / Services                                Licensee
+        Van Houtte de café Van Houtte Coffee,Tea                        companyMontreal     QC   No
+                     Van Rees (North
+  35904              America) Inc.       Tea                            Trader Toronto      ON   No
+                     Vigneault
+                     Chocolatier                                        Licensee
+  20551Theobroma Lt&eacute;e             Chocolate                      companyQuébec       QC   No
+        Vince's      Vince&#8217;s                                      Licensee
+  32909Market        Market              Coffee                         companySharon       ON   No
+        Vittoria                                                        Licensee
+01329 Coffee         Vittoria Coffee     Coffee                         companyToronto      ON   No
+                     Westcoast Coffee
+  38766              Trader              Coffee                         Trader Vancouver    BC   No
+        William                                                         Licensed
+        Spartivento William Spartivento Coffee                          brand                    No
+

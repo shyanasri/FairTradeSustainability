@@ -1,0 +1,7 @@
+setup.py
+Barcode_Sustainability_Scanner.egg-info/PKG-INFO
+Barcode_Sustainability_Scanner.egg-info/SOURCES.txt
+Barcode_Sustainability_Scanner.egg-info/dependency_links.txt
+Barcode_Sustainability_Scanner.egg-info/not-zip-safe
+Barcode_Sustainability_Scanner.egg-info/requires.txt
+Barcode_Sustainability_Scanner.egg-info/top_level.txt
